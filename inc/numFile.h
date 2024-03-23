@@ -16,4 +16,6 @@ typedef struct
 
 } NumFile;
 
+void CopyNumFile(NumFile from, NumFile to);
+
 #endif
